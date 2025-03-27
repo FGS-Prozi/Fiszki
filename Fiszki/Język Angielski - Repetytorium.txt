@@ -1,0 +1,280 @@
+#separator:tab
+#html:true
+have something in common with somebody	mieć z kimś coś wspólnego
+mieć z kimś coś wspólnego	have something in common with somebody
+relate to somebody	rozumieć kogoś, znajdować z kimś wspólny język
+rozumieć kogoś, znajdować z kimś wspólny język	relate to somebody
+set somebody / something apart	odróżniać kogoś / coś
+odróżniać kogoś / coś	set somebody / something apart
+share values / views	podzielać wartości / poglądy
+podzielać wartości / poglądy	share values / views
+have a (positive) impact	wpływać (pozytywnie)
+wpływać (pozytywnie)	have a (positive) impact
+look down on somebody	patrzeć na kogoś z góry, pogardzać kimś
+patrzeć na kogoś z góry, pogardzać kimś	look down on somebody
+look up to somebody	podziwiać kogoś
+podziwiać kogoś	look up to somebody
+mentor	mentor, mentorka
+mentor, mentorka	mentor
+role model	wzór do naśladowania
+wzór do naśladowania	role model
+respect	szanować
+szanować	respect
+set an example	dawać przykład
+dawać przykład	set an example
+achievement	osiągnięcie
+osiągnięcie	achievement
+aspire to something	dążyć do czegoś, aspirować do czegoś
+dążyć do czegoś, aspirować do czegoś	aspire to something
+philantropist	filantrop, filantropka
+filantrop, filantropka	philantropist
+visionery	wizjoner, wizjonerka
+wizjoner, wizjonerka	visionery
+well-rounded	gruntownie wykształcony
+gruntownie wykształcony	well-rounded
+approve of somebody / something	aprobować kogoś, akceptować coś, pochwalać
+aprobować kogoś, akceptować coś, pochwalać	approve of somebody / something
+compromise	kompromis
+kompromis	compromise
+discriminate against somebody	dyskryminować kogoś
+dyskryminować kogoś	discriminate against somebody
+ethics	etyka, moralność
+etyka, moralność	ethics
+follow the rules	przestrzegać zasad
+przestrzegać zasad	follow the rules
+human rights	prawa człowieka
+prawa człowieka	human rights
+liberty	wolność
+wolność	liberty
+belief	przekonanie
+przekonanie	belief
+betray	zdradzić
+zdradzić	betray
+change your mind	zmienić zdanie
+zmienić zdanie	change your mind
+courage	odwaga
+odwaga	courage
+faith	wiara
+wiara	faith
+friendship	przyjaźń
+przyjaźń	friendship
+honesty	uczciwość, szczerość
+uczciwość, szczerość	honesty
+ideal	ideał, wzór
+ideał, wzór	ideal
+loyalty	lojalność
+lojalność	loyalty
+moral standards	standardy moralne
+standardy moralne	moral standards
+realise	uświadomić sobie
+uświadomić sobie	realise
+self-respect	szacunek do samego siebie
+szacunek do samego siebie	self-respect
+tolerance	tolerancja
+tolerancja	tolerance
+treat somebody the same way	traktować kogoś tak samo
+traktować kogoś tak samo	treat somebody the same way
+truth	prawda
+prawda	truth
+value system	system wartości
+system wartości	value system
+wellness	dobrostan
+dobrostan	wellness
+keep an eye on (your goals)	koncentrować się (na swoich celach)
+koncentrować się (na swoich celach)	keep an eye on (your goals)
+rebel against something	buntować się przeciwko czemuś
+buntować się przeciwko czemuś	rebel against something
+self-esteem	poczucie własnej wartości
+poczucie własnej wartości	self-esteem
+able / unable to	zdolny / niezdolny do
+zdolny / niezdolny do	able / unable to
+adore	uwielbiać
+uwielbiać	adore
+be an expert on something	być eskpertem w jakiejś dziedzinie
+być eskpertem w jakiejś dziedzinie	be an expert on something
+be bad / terrible at something	być w czymś kiepskim
+być w czymś kiepskim	be bad / terrible at something
+be crazy / mad about something	szaleć za czymś
+szaleć za czymś	be crazy / mad about something
+be fond of somebody / something	lubić kogoś / coś
+lubić kogoś / coś	be fond of somebody / something
+be good at something	być w czymś dobrym
+być w czymś dobrym	be good at something
+be interested in something	interesować się czymś
+interesować się czymś	be interested in something
+be into something	interesować się czymś
+interesować się czymś	be into something
+be keen on something	bardzo coś lubić
+bardzo coś lubić	be keen on something
+can't stand somebody / something	nie cierpieć kogoś / czegoś
+nie cierpieć kogoś / czegoś	can't stand somebody / something
+come naturally to somebody	przychodzić komuś z łatwością
+przychodzić komuś z łatwością	come naturally to somebody
+competent	kompetentny
+kompetentny	competent
+dislike	nie lubić
+nie lubić	dislike
+enjoy	czerpać przyjemnośc, lubić
+czerpać przyjemnośc, lubić	enjoy
+gifted	utalentowany
+utalentowany	gifted
+skill	umiejętność, sprawność
+umiejętność, sprawność	skill
+skilled	wykwalifikowany, zręczny
+wykwalifikowany, zręczny	skilled
+talented	utalentowany
+utalentowany	talented
+appeal to somebody	podobać się komuś
+podobać się komuś	appeal to somebody
+be familiar with something	znać coś
+znać coś	be familiar with something
+capable of doing something	zdolny do zrobienia czegoś
+zdolny do zrobienia czegoś	capable of doing something
+convinced of something	przekonany o czymś
+przekonany o czymś	convinced of something
+disapprove of something	przekonany o czymś
+przekonany o czymś	disapprove of something
+grasp something	rozumieć coś
+rozumieć coś	grasp something
+have a go at something	spróbować coś zrobić
+spróbować coś zrobić	have a go at something
+pride yourself in something	szczycić się czymś
+szczycić się czymś	pride yourself in something
+regard something as something	uważać coś za coś
+uważać coś za coś	regard something as something
+take an interest in something	zainteresować się czymś
+zainteresować się czymś	take an interest in something
+take pride in something	szczycić się czymś
+szczycić się czymś	take pride in something
+take risks	podejmować ryzyko
+podejmować ryzyko	take risks
+annoyed	zirytowany
+zirytowany	annoyed
+annoying	irytujący
+irytujący	annoying
+bored	znudzony
+znudzony	bored
+boring	nudny
+nudny	boring
+depressed	załamany
+załamany	depressed
+depressing	przygnębiający
+przygnębiający	depressing
+disappointed	rozczarowany
+rozczarowany	disappointed
+disappointing	rozczarowujący
+rozczarowujący	disappointing
+embarrassed	zawstydzony
+zawstydzony	embarrassed
+embarrassing	wprawiający w zażenowanie
+wprawiający w zażenowanie	embarrassing
+excited	podekscytowany
+podekscytowany	excited
+exciting	ekscytujący
+ekscytujący	exciting
+frightened	przerażony
+przerażony	frightened
+frightening	przerażający
+przerażający	frightening
+frustrated	sfrustrowany
+sfrustrowany	frustrated
+frustrating	frustrujący
+frustrujący	frustrating
+moved	wzruszony
+wzruszony	moved
+moving	wzruszający
+wzruszający	moving
+pleased	zadowolony
+zadowolony	pleased
+puzzled	zaskoczony, zdziwiony
+zaskoczony, zdziwiony	puzzled
+stressed out	zestresowany
+zestresowany	stressed out
+stressful	stresujący
+stresujący	stressful
+surprised	zdziwiony
+zdziwiony	surprised
+surprising	zadziwiający
+zadziwiający	surprising
+worried	zmartwiony
+zmartwiony	worried
+worrying	martwiący
+martwiący	worrying
+anger	złość
+złość	anger
+disapproval	dezaprobata
+dezaprobata	disapproval
+discomfort	dyskomfort
+dyskomfort	discomfort
+impatience	zniecierpliwienie
+zniecierpliwienie	impatience
+indecision	niezdecydowanie
+niezdecydowanie	indecision
+insecurity	niepewność
+niepewność	insecurity
+irritation	irytacja
+irytacja	irritation
+shyness	nieśmiałość
+nieśmiałość	shyness
+bang your fist (on a table)	uderzyć pięścią (w stół)
+uderzyć pięścią (w stół)	bang your fist (on a table)
+blink	mrugać powiekami
+mrugać powiekami	blink
+cross your legs	skrzyżować nogi
+skrzyżować nogi	cross your legs
+fold your arms	skrzyżować ramiona
+skrzyżować ramiona	fold your arms
+frown	zmarszczyć brwi
+zmarszczyć brwi	frown
+glimpse	spojrzeć przelotnie
+spojrzeć przelotnie	glimpse
+grind your teeth	zgrzytać zębami
+zgrzytać zębami	grind your teeth
+purse your lips	zacisnąć usta
+zacisnąć usta	purse your lips
+raise your eyebrows	unieść brwi (ze zdumienia)
+unieść brwi (ze zdumienia)	raise your eyebrows
+shrug your shoulders	wzruszyć ramionami
+wzruszyć ramionami	shrug your shoulders
+tap your fingers (on a table)	bębnić palcami (w stół)
+bębnić palcami (w stół)	tap your fingers (on a table)
+wink at somebody	mrugnąć okiem do kogoś
+mrugnąć okiem do kogoś	wink at somebody
+be angry with somebody	być złym na kogoś
+być złym na kogoś	be angry with somebody
+be in a bad / good mood	być w złym / dobrym nastroju
+być w złym / dobrym nastroju	be in a bad / good mood
+be nervous about something	denerwować się czymś
+denerwować się czymś	be nervous about something
+be / feel / get fed up with somebody / something	mieć kogoś / czegoś dość
+mieć kogoś / czegoś dość	be / feel / get fed up with somebody / something
+change your mind	zmienić zdanie
+zmienić zdanie	change your mind
+cheer up	rozweselić, rozchmurzyć się
+rozweselić, rozchmurzyć się	cheer up
+feel like something	mieć na coś ochotę, czuć się w jakiś sposób
+mieć na coś ochotę, czuć się w jakiś sposób	feel like something
+have a bad day	mieć zły dzień
+mieć zły dzień	have a bad day
+have a good sense of humour	mieć poczucie humoru
+mieć poczucie humoru	have a good sense of humour
+lose your temper	stracić panowanie nad sobą
+stracić panowanie nad sobą	lose your temper
+make up your mind	zdecydować się
+zdecydować się	make up your mind
+worry about something	martwić się czymś
+martwić się czymś	worry about something
+be down in the dumps	mieć chandrę, być bardzo smutnym
+mieć chandrę, być bardzo smutnym	be down in the dumps
+be over the moon	nie posiadać się ze szczęścia
+nie posiadać się ze szczęścia	be over the moon
+cope with something	radzić sobie z czymś
+radzić sobie z czymś	cope with something
+face up to something	stawiać czemuś czoło
+stawiać czemuś czoło	face up to something
+get butterflies in your stomach	mieć tremę
+mieć tremę	get butterflies in your stomach
+have a chip on your shoulder	być przewrażliwionym
+być przewrażliwionym	have a chip on your shoulder
+lose control	stracić panowanie nad sobą
+stracić panowanie nad sobą	lose control
