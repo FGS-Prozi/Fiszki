@@ -133,3 +133,7 @@ input[type="checkbox"] {
 #dCards {
     font-size: 1.5rem;
 }
+
+#sidebar {
+    display: none;
+}
